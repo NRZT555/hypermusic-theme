@@ -8,10 +8,10 @@
 * @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
 */
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
-@import url('https://fonts.googleapis.com/css2?family=Popins');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 :root {
---main-theme-color: #000000;
+--main-theme-color: #87CEFA;
 --theme-transparency: #000000cc;
 --theme-background-image: url('https://cdn.discordapp.com/attachments/965952849349607454/1002369767681830994/My_project.jpg?size=4096');
 --home-icon-image: url('https://cdn.discordapp.com/attachments/965952849349607454/1002369767681830994/My_project.jpg?size=4096');
@@ -70,5 +70,5 @@
 --reaction-emoji-border-color: 1px solid transparent;
 --reaction-emoji-hover-background-color: #ffffff1a;
 --reaction-emoji-hover-border-color: #ffffff33;
---customFont: 'Poppins';
+--customFont: 'Source Sans Pro';
 }
