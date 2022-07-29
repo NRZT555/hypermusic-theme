@@ -1,6 +1,6 @@
 /**
 * @name hypermusic
-* @version Auto Update
+* @version 1.5
 * @description cool hypermusic theme
 * @author nrzt
 * @invite 39uSKXfSMa
@@ -10,7 +10,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro');
 @import url('https://nrzt555.github.io/themes/core/custom-font.css');
 :root {
---main-theme-color: #0000;
+--main-theme-color: #D3D3D3;
 --theme-transparency: #000000cc;
 --theme-background-image: url('https://cdn.discordapp.com/attachments/965952849349607454/1002369767681830994/My_project.jpg?size=4096');
 --home-icon-image: url('https://cdn.discordapp.com/avatars/896415259177398357/f3e309790964e9a34e3195394f6fe074.png?size=4096');
@@ -21,8 +21,8 @@
 --mention-color: #faa61a0d;
 --mention-sider: #faa61aff;
 --mention-hover-color: #faa61a14;
---category-hover-color: #0000;
---unread-server-animation: black;
+--category-hover-color: #c8c8c833;
+--unread-server-animation: #faa61aff;
 --video-screen-button-background-color: #c8c8c833;
 --video-screen-button-foreground-color: rgb(0, 0, 0);
 --video-screen-button-background-hovor-color: #c8c8c866;
@@ -41,8 +41,8 @@
 --message-hover-buttons-background: #c8c8c81a;
 --context-menu-transparency: #0f0f0fcc;
 --add-discover-icon-transparency: #c8c8c826;
---add-discover-icon-color: #0000;
---channel-limit-count-color: #000;
+--add-discover-icon-color: #87CEFA;
+--channel-limit-count-color: #87CEFA;
 --channel-limit-background-left: #c8c8c81a;
 --channel-limit-background-right: #c8c8c833;
 --scrollbar-color: #c8c8c833;
