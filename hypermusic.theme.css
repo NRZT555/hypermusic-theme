@@ -10,7 +10,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro');
 @import url('https://nrzt555.github.io/themes/core/custom-font.css');
 :root {
---main-theme-color: #87CEFA;
+--main-theme-color: #0000;
 --theme-transparency: #000000cc;
 --theme-background-image: url('https://cdn.discordapp.com/attachments/965952849349607454/1002369767681830994/My_project.jpg?size=4096');
 --home-icon-image: url('https://cdn.discordapp.com/attachments/965952849349607454/1002369767681830994/My_project.jpg?size=4096');
@@ -21,7 +21,7 @@
 --mention-color: #faa61a0d;
 --mention-sider: #faa61aff;
 --mention-hover-color: #faa61a14;
---category-hover-color: #87CEFA;
+--category-hover-color: #0000;
 --unread-server-animation: black;
 --video-screen-button-background-color: #c8c8c833;
 --video-screen-button-foreground-color: rgb(0, 0, 0);
@@ -41,8 +41,8 @@
 --message-hover-buttons-background: #c8c8c81a;
 --context-menu-transparency: #0f0f0fcc;
 --add-discover-icon-transparency: #c8c8c826;
---add-discover-icon-color: #87CEFA;
---channel-limit-count-color: #87CEFA;
+--add-discover-icon-color: #0000;
+--channel-limit-count-color: #000;
 --channel-limit-background-left: #c8c8c81a;
 --channel-limit-background-right: #c8c8c833;
 --scrollbar-color: #c8c8c833;
